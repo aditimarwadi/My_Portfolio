@@ -1,7 +1,7 @@
 # ADITI MARWADI
 **Aspiring Data Scientist**
 Jaora, Madhya Pradesh | +91-9993977884 | aditimarwadi31@gmail.com
-[LinkedIn](https://www.linkedin.com/in/aditi-marwadi-670a6b358/) | [GitHub](https://github.com/aditimarwadi)
+[LinkedIn](https://www.linkedin.com/in/aditi-marwadi-670a6b358/) | [GitHub](https://github.com/aditimarwadi) | [Portfolio](https://aditimarwadi.github.io/My_Portfolio/)
 
 ---
 
